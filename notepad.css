@@ -1,0 +1,17 @@
+.container
+{
+  border:1px solid black;
+}
+
+.content
+{
+display:flex;
+}
+
+.content1
+{
+  border:1px solid black;
+  height:400px;
+  background: lightblue;
+  font-size: 18px;
+}
