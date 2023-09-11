@@ -31,10 +31,13 @@ function remove()
 {
   console.log("insode the remove function")
   console.log(event.target.parentElement.id);
+  console.log(event.target.id);
   
 let para=document.getElementById(event.target.parentElement.id);
 para.style.display="none";
 }
+
+
 
 
 
